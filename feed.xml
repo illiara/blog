@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Illiara&#x27;s blog</title>
+    <link href="https://illiara.github.io/blog/feed.xml" rel="self" />
+    <link href="https://illiara.github.io/blog" />
+    <updated>2019-05-22T23:01:07+02:00</updated>
+    <author>
+        <name>Illiara Restless</name>
+    </author>
+    <id>https://illiara.github.io/blog</id>
+
+    <entry>
+        <title>My first post</title>
+        <author>
+            <name>Illiara Restless</name>
+        </author>
+        <link href="https://illiara.github.io/blog/my-first-post.html"/>
+        <id>https://illiara.github.io/blog/my-first-post.html</id>
+
+        <updated>2019-05-22T23:00:55+02:00</updated>
+            <summary>
+                <![CDATA[
+                    This is a short intro
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                This is a short intro
+            ]]>
+        </content>
+    </entry>
+</feed>

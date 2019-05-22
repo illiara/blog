@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Illiara&#x27;s blog",
+    "description": "",
+    "home_page_url": "https://illiara.github.io/blog",
+    "feed_url": "https://illiara.github.io/blog/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Illiara Restless"
+    },
+    "items": [
+        {
+            "id": "https://illiara.github.io/blog/my-first-post.html",
+            "url": "https://illiara.github.io/blog/my-first-post.html",
+            "title": "My first post",
+            "summary": "This is a short intro",
+            "content_html": "This is a short intro",
+            "author": {
+                "name": "Illiara Restless"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-05-22T23:00:55+02:00",
+            "date_modified": "2019-05-22T23:00:55+02:00"
+        }
+    ]
+}
